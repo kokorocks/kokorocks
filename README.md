@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h4>I am a 14 year old programmer that is learning about python, js, ai and more. I also want to make free tech an other software</h4>
+<h4>I am a 14 year old programmer that is learning about python, js, ai and more. I also want to make free tech and other software</h4>
 
 <!--
 **kokorocks/kokorocks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
